@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi 👋, I'm GOWTHAM P K<br>A passionate fullstack developer from India<br>🌱 I’m currently learning PYTHON STACK(DJANGO)<br><br>📫 How to reach me gowthampk004@gmail.com<br><br>
+Hi 👋, I'm GOWTHAM P K<br>A passionate fullstack developer from India<br>🌱 I’m currently learning java (Spring Boot)<br><br>📫 How to reach me gowthampk004@gmail.com<br><br>
 
 
 ## 🌐 Socials:
