@@ -12,5 +12,5 @@ Hi 👋, I'm GOWTHAM P K<br>A passionate fullstack developer from India<br>🌱 
 
 [LeetCode](https://leetcode.com/YOUR_USERNAME/)
 
-![LeetCode Stats](https://leetcard.jacoblin.cool/YOUR_USERNAME?theme=dark&font=Baloo&ext=contest)
+![LeetCode Stats](https://leetcard.jacoblin.cool/YOUR_LEETCODE_USERNAME?ext=heatmap)
 
