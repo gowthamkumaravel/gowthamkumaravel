@@ -12,4 +12,4 @@ Hi 👋, I'm GOWTHAM P K<br>A passionate fullstack developer from India<br>🌱 
 
 [LeetCode](https://leetcode.com/YOUR_USERNAME/)
 
-![LeetCode Stats](https://img.shields.io/badge/LeetCode-Solved%20200-orange)
+![LeetCode Stats](https://leetcard.jacoblin.cool/gowtham_004?ext=heatmap)
